@@ -16,7 +16,7 @@ namespace FormulaAirline.Services
                 VirtualHost = "/"
             };
             var connection = factory.CreateConnection();
-            var channel = connection.CreateModel();
+            using var channel = connection.CreateModel();
 
             channel.QueueDeclare("bookings", durable: true, exclusive: true);
             var jsonString = JsonSerializer.Serialize(message);

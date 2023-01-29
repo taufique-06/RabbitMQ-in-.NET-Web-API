@@ -1,0 +1,17 @@
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\bin\Debug\net6.0\ForumalAirlineConsumer.exe
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\bin\Debug\net6.0\ForumalAirlineConsumer.deps.json
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\bin\Debug\net6.0\ForumalAirlineConsumer.runtimeconfig.json
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\bin\Debug\net6.0\ForumalAirlineConsumer.dll
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\bin\Debug\net6.0\ForumalAirlineConsumer.pdb
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.csproj.AssemblyReference.cache
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.AssemblyInfoInputs.cache
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.AssemblyInfo.cs
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.csproj.CoreCompileInputs.cache
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.csproj.CopyComplete
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.dll
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\refint\ForumalAirlineConsumer.dll
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.pdb
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ForumalAirlineConsumer.genruntimeconfig.cache
+C:\Users\taufique.azad\Repos\MyPersonalProject\RabbitMQ-in-.NET-Web-API\ForumalAirlineConsumer\ForumalAirlineConsumer\obj\Debug\net6.0\ref\ForumalAirlineConsumer.dll
