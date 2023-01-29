@@ -13,7 +13,7 @@ namespace FormulaAirline.Services
                 HostName = "localhost",
                 UserName = "taufique",
                 Password = "taufique", //For Prod env, I will either use UserSecrets or KV.
-                VirtualHost = "/producer"
+                VirtualHost = "/"
             };
             var connection = factory.CreateConnection();
             var channel = connection.CreateModel();
