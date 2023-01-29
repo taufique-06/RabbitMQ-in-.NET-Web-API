@@ -16,4 +16,5 @@ For example: if we have two consumers and one consumer only interested in gettin
 # Routing
 ![route](https://user-images.githubusercontent.com/85470428/215331753-c44042c1-90f2-487d-b9b0-3f524cabe5a0.png)
 
-
+Routing means we are only sending messages to the queues selectively. As can be seen in the image that, we are sending differnt sort of messages such as 'Error', 'Info',
+'Warning'. We can see in the image, one consumer is accepting everything but the other is selective, it is only receiving messages which has 'Error' type. 
