@@ -22,4 +22,4 @@ Routing means we are only sending messages to the queues selectively. As can be 
 # Project Structure
 1. Producer: FormulaAirline
 2. RabbitMQ: A docker compose file is created and this docker compose file is responsible for pulling in the Docker a version of RabbitMQ. This will allow us to run the RabbitMQ locally. After writing docker compose file, do **docker-compose up**. Once the execution is finished, go to http://localhost:1-portnumber/ 
-3. Consumer: 
+3. Consumer: A consumer called FormulaAirlineConsumer which will recerive messages that sends from FormulaAirline 
