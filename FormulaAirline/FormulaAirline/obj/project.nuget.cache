@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zP79nxIsmLAjYTHb2hCLWNVyQZPO1z9CrQOA7Z0QjiJ2zRXBvMIH06vqkODzmELnHFFEjFbVCynxhhlzWUow+Q==",
+  "dgSpecHash": "ohvDpBUKWU/uzzwhly80BforP3/MiPAokNFCdJXx/arp9FAZ9knnNB+IffjeudYz+I5VNMOuP1MUCgINB5ownQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\taufique.azad\\Repos\\MyPersonalProject\\RabbitMQ-in-.NET-Web-API\\FormulaAirline\\FormulaAirline\\FormulaAirline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin.taufique.a\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\admin.taufique.a\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\admin.taufique.a\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\admin.taufique.a\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\admin.taufique.a\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\admin.taufique.a\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
